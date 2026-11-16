@@ -11,12 +11,12 @@
 
 ## 预览图
 <p align="center">
-<img src="assets/0.png" width="240"/>
-<img src="assets/1.png" width="240"/>
-<img src="assets/2.png" width="240"/>
-<img src="assets/3.png" width="240"/>
-<img src="assets/4.png" width="240"/>
-<img src="assets/5.png" width="240"/>
+<img src="assets/0.jpg" width="240"/>
+<img src="assets/1.jpg" width="240"/>
+<img src="assets/2.jpg" width="240"/>
+<img src="assets/3.jpg" width="240"/>
+<img src="assets/4.jpg" width="240"/>
+<img src="assets/5.jpg" width="240"/>
 </p>
 
 ## 它能帮你做什么
