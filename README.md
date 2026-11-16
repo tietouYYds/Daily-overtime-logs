@@ -1,4 +1,4 @@
-# 马的加班
+# 每日记加班
 
 > 一款只属于你自己的加班记账本。
 > 记下每天加班、请假和上班工时，自动算清加班费、扣款和到手收入。
@@ -9,14 +9,14 @@
 
 ---
 
-## 预览图
+## AI改过  预览图
 <p align="center">
-<img src="assets/0.jpg" width="240"/>
-<img src="assets/1.jpg" width="240"/>
-<img src="assets/2.jpg" width="240"/>
-<img src="assets/3.jpg" width="240"/>
-<img src="assets/4.jpg" width="240"/>
-<img src="assets/5.jpg" width="240"/>
+<img src="scripts/0.jpg" width="240"/>
+<img src="scripts/1.jpg" width="240"/>
+<img src="scripts/2.jpg" width="240"/>
+<img src="scripts/3.jpg" width="240"/>
+<img src="scripts/4.jpg" width="240"/>
+<img src="scripts/5.jpg" width="240"/>
 </p>
 
 ## 它能帮你做什么
