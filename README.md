@@ -9,6 +9,16 @@
 
 ---
 
+## 预览图
+<p align="center">
+<img src="assets/0.png" width="240"/>
+<img src="assets/1.png" width="240"/>
+<img src="assets/2.png" width="240"/>
+<img src="assets/3.png" width="240"/>
+<img src="assets/4.png" width="240"/>
+<img src="assets/5.png" width="240"/>
+</p>
+
 ## 它能帮你做什么
 
 - 🧾 **记一笔就好**：底部弹层快速记录加班 / 请假 / 上班，选班次、填时长，档位自动判定、金额实时算出。
